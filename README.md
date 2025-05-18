@@ -2,4 +2,4 @@
 
 I'm Eduardo, a  coffee driven Software Developer based in Washington State.
 
-I enjoy writing applications in PHP, Swift, Node.js, Angular and Javascript. I also like working on databases, make servers do stuff, working on scalability, performance, user experiences and desktop/mobile design.
+I enjoy writing applications in PHP, Swift, Node.js, React and Javascript. I also like working on databases, make servers do stuff, working on scalability, performance, user experiences and desktop/mobile design.
